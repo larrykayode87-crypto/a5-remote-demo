@@ -1,9 +1,10 @@
 # My Demo Project
 ## About
-- one
-- two
-- three
+- Tree
+- Purple
+- Mango
 
-![logo](https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_Linux_Mint.png)
+![logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 
 [Project repo](https://github.com/larrykayode87-crypto/a5-remote-demo)
